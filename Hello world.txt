@@ -1,0 +1,6 @@
+Version2
+<<<<<<< HEAD
+Konflikt
+=======
+Konflikt Zentral2
+>>>>>>> develop
